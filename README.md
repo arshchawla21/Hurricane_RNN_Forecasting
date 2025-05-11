@@ -1,6 +1,6 @@
 # An Investigative Comparison between SOTA NeuralGCM and LSTM RNNs for Cyclone Track Forecasting
 
-![alt text](image.png)
+![alt text](graphs/results/comparison.png)
 
 ### Abstract
 Accurately predicting extreme weather events like cyclones is crucial for safeguarding lives and infrastructure. One standard modern approach to this problem deploys large weather models such as general circulation models. However, these are expensive to train and use even though they provide highly accurate inferences. Recent work has achieved a similar level of precision with machine learning techniques. However, these models are still considerably large-scale. In this paper, we examine the possibility of achieving comparable results using smaller-scale machine learning models. We have employed long short-term memory neural networks (LSTM) to predict tropical cyclone tracks by regarding them as time-series input data.
